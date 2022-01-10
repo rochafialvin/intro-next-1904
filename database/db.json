@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Next Conference",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Jakarta, Indonesia",
+      "date": "10 January 2022",
+      "image": "images/event-next-conf.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Introduction to Next JS",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Bandung, Indonesia",
+      "date": "11 January 2022",
+      "image": "images/event-next-intro.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Next JS",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Surabaya, Indonesia",
+      "date": "12 January 2022",
+      "image": "images/event-next-adv.jpg"
+    }
+  ]
+}

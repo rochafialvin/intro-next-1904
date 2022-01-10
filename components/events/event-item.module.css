@@ -1,0 +1,29 @@
+.card {
+  display: flex;
+  margin-bottom: 20px;
+  height: 228px;
+  border: 2px solid ghostwhite;
+}
+
+.image {
+  width: 30%;
+}
+
+.info {
+  padding: 10px 40px;
+}
+
+.title {
+  font-size: 1.7em;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 0.8em;
+}
+
+.date,
+.location {
+  font-size: 1.3em;
+  font-weight: bold;
+  color: gray;
+  margin-bottom: 0.5em;
+}

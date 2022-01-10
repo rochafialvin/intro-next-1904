@@ -1,7 +1,16 @@
 import axios from "../utils/axios";
+import EventItem from "../components/events/event-item";
 
 export default function Home(props) {
-  return <h1>Jumlah events : {props.events.length}</h1>;
+  const renderEvents = () => {
+    return props.events.map((event) => (
+      <EventItem key={event.id} event={event} />
+    ));
+  };
+
+  return (
+    <ul style={{ width: "60%", margin: "3rem auto" }}>{renderEvents()}</ul>
+  );
 }
 
 export async function getStaticProps(context) {

@@ -2,7 +2,7 @@
   display: flex;
   margin-bottom: 20px;
   height: 228px;
-  border: 2px solid ghostwhite;
+  border: 2px solid #f8f8ff;
 }
 
 .image {
@@ -26,4 +26,16 @@
   font-weight: bold;
   color: gray;
   margin-bottom: 0.5em;
+}
+
+.detail {
+  width: 11em;
+  margin-top: 1em;
+  padding: 10px;
+  font-size: 1.2em;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+  color: aliceblue;
+  background: green;
+  border-radius: 10px;
 }

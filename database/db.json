@@ -23,6 +23,14 @@
       "location": "Surabaya, Indonesia",
       "date": "12 January 2022",
       "image": "images/event-next-adv.jpg"
+    },
+    {
+      "id": 4,
+      "title": "aaaa",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Bali, Indonesia",
+      "date": "22 January 2022",
+      "image": "images/event-next-adv.jpg"
     }
   ]
 }

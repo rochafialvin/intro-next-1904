@@ -22,7 +22,7 @@ export default function EventItem(props) {
         <p className={classes.date}>{event.date}</p>
         <p className={classes.location}>{event.location}</p>
 
-        <Link href={`/events/${event.id}`}>
+        <Link href={`/events/${event.id}`} passHref>
           <button className={classes.detail}>Detail</button>
         </Link>
       </div>

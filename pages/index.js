@@ -14,6 +14,8 @@ export default function Home(props) {
 }
 
 export async function getStaticProps(context) {
+  console.log("Generating ...");
+
   try {
     const res = await axios.get("/events");
 
